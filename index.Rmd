@@ -30,7 +30,7 @@ $$W = aL^b$$
 - $a$ is very small (in the order of $\times 10 ^{-3}$)
 - $b$ ~ 3
 
-![](img/LW.jpg)
+![](img/LW.JPG)
 
 ## Task
 
